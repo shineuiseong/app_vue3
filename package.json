@@ -1,0 +1,19 @@
+{
+  "name": "shines-vue3",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.25",
+    "@popperjs/core": "^2.9.1",
+    "bootstrap": "^5.0.0-beta2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.9"
+  }
+}
