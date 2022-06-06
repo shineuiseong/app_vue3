@@ -8,9 +8,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.25",
+    "@bundled-es-modules/axios": "^0.27.2",
     "@popperjs/core": "^2.9.1",
-    "bootstrap": "^5.0.0-beta2"
+    "bootstrap": "^5.0.0-beta2",
+    "vue": "^3.2.25"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.3",
